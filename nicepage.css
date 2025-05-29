@@ -44898,19 +44898,23 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-image-1 {
     margin-top: 17px;
-    margin-left: 33px;
+    margin-left: 0;
   }
 
   .u-footer .u-text-1 {
-    width: 340px;
+    width: auto;
+    margin-top: 33px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-footer .u-social-icons-1 {
     height: 39px;
     width: 39px;
-    margin-top: -156px;
-    margin-right: 17px;
+    margin-top: -125px;
+    margin-right: 33px;
     margin-bottom: 60px;
+    min-height: auto;
   }
 }
 
